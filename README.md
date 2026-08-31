@@ -97,3 +97,17 @@ The dataset is commonly used for HR analytics and employee attrition analysis.
 Data Analyst focused on turning data into meaningful business insights.
 
 ---
+
+## 📊 Dashboard Preview
+
+### 🏠 Home Dashboard
+![Home Dashboard](images/home_view.png)
+
+### 👥 Employee Profile
+![Employee Profile](images/employees_profile.png)
+
+### 📈 Employee Insights
+![Employee Insights](images/employees_insights.png)
+
+### 🎯 Executive View
+![Executive View](images/executive_view.png)
